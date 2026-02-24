@@ -19,6 +19,11 @@ I build **Polymarket trading bots** in Rust — copy trading, arbitrage, hedging
 
 ---
 
+
+https://github.com/user-attachments/assets/fb3aac85-152a-4551-bdfe-4667418fd908
+<img width="1916" height="645" alt="Screenshot_3" src="https://github.com/user-attachments/assets/89ec2380-4c2c-4ea2-b2c3-0c29fc62657f" />
+
+
 ### Disclaimer
 
 In today’s market, **some of these bots may not be profitable and can lose money.** Use them as **reference implementations** for building your own market-making and arbitrage strategies, **not** as ready-to-deploy solutions.
